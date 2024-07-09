@@ -1,0 +1,1 @@
+The given project implements a smart parking system using ESP32 microcontroller, infrared sensors and a couple of servo-motors. This also uses Adafruit dashboard to provide a real time analysis of the parking setup.
